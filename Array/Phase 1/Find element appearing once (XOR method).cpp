@@ -34,7 +34,7 @@ a unorderd map and and iterate with num with nums and make freq[num]++ that stor
 use a auto iterator and comapare freuancy as it.second and return elemnt as it.first;
 
 class Solution {
-public:
+public:  
     int singleNonDuplicate(vector<int>& nums) {
          unordered_map<int, int> freq;
          for(int num : nums){
