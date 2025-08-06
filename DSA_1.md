@@ -84,7 +84,7 @@
 ## **PHASE 5: Searching & Sorting Patterns (Day 12–15)**
 
 49. ★★ First and last occurrence of element (BS)
-50. ★ Count rotations of sorted array (BS pivot)
+50. ★ Count rotations of sorted array (BS pivot) 
 51. ★★ Peak element (BS)
 52. ★★★ Search in rotated sorted array (BS partition)
 53. ★ Search in nearly sorted array (BS variant)
