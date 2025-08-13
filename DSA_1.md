@@ -51,7 +51,7 @@
 24. ★ Max frequency element (HS)
 25. ★★ Intersection of two arrays (HS/Sorting)
 26. ★ Union of two sorted arrays (Merging logic)
-27. ★ Common elements in 3 sorted arrays (Multi-pointer)
+27. ★ Common elements in 3 sorted arrays (Multi-pointer)  
 28. ★ Check if two arrays equal (HS)
 29. ★ Subset check (HS/Sorting)
 30. ★★ First repeating element (HS)
