@@ -126,8 +126,7 @@
 
 ---
 
-## **PHASE 7: Advanced Stack & Logic (Day 21–24)**
-
+## **PHASE 7: Advanced Stack & Logic (Day 21–24)*=
 84. ★★ Next Greater Element (ST)
 85. ★ Next Smaller Element (ST)
 86. ★★ Stock Buy & Sell I (Greedy)
